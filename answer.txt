@@ -1,0 +1,11 @@
+1.Data Source: Where raw data originates(Databases, APIs, files)
+Ingestion: The process of importing and transferring data from sources to a system for processing.
+Processing: Transforming, cleaning, and analyzing data to make it usable.
+Storage: Saving processed data in databases, data warehouses, or data lakes.
+Visualization: Displaying data insights through charts, graphs, and dashboards (Grafana, PowerBi, Google Data Studio, Tableau)
+
+2.I will choose Grafana over Redash due to:
+Versatility: Grafana supports a wide range of data sources, including databases like SQLite, MySQL, PostgreSQL and more.
+Visualization: Grafana excels in creating detailed and interactive dashboards. Suitable for real-time monitoring.
+Community and Plugins: Grafana has a large, active community and a rich ecosystem of plugins. Easy to get community support.
+Performance Monitoring: Grafana is widely used for monitoring system performance, making it a preferred tool for IT operations.

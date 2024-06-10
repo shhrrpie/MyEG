@@ -1,0 +1,10 @@
+url	total_page_views
+www.travelicios.com/about	123
+www.travelicios.com/contact	91
+www.travelicios.com/home?utm_source=facebook	34
+www.travelicios.com/home?utm_source=myspace	45
+www.travelicios.com/home?utm_source=null	19
+www.travelicios.com/home?utm_source=tiktok	2
+www.travelicios.com/home?utm_source=youtube	36
+www.travelicios.com/login	80
+www.travelicios.com/products	143

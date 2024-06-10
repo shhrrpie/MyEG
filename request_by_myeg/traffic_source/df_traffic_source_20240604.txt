@@ -1,0 +1,7 @@
+utm_source	total_page_views
+direct	17
+facebook	18
+myspace	44
+null	488
+tiktok	30
+youtube	13
